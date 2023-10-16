@@ -2,6 +2,8 @@
 
 ### Retrieve and analyze articles from The New York Times API, including filtering by DOB, keyword search, data analysis, visualization, and report generation.
 
+<br>
+
 - External libraries: csv, matplotlib, pandas, requests
 - Contact Information: [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
 <br>
