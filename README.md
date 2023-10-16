@@ -6,6 +6,8 @@
 
 - External libraries: csv, matplotlib, pandas, requests
 - Contact Information: [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
+<br>
+
 **Expected Output:**
 
 - Retrieve articles from The New York Times API for a specified year and month
