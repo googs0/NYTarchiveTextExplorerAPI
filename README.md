@@ -21,6 +21,6 @@
 <br>
 <br>
 
-**Example image:**
+**Example images:**
 ![NYT DOB API Screen 1](/assets/NYT_DOB_API-Screen1.png)
 ![NYT DOB API Screen 2](/assets/NYT_DOB_API-Screen2.png)
