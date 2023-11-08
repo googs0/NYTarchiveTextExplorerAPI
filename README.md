@@ -1,4 +1,4 @@
-## NYT_Birthday_API
+## NYT Article Analysis Toolkit
 
 ### Retrieve and analyze articles from The New York Times API, including filtering by DOB, keyword search, data analysis, visualization, and report generation.
 
