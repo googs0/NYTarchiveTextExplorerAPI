@@ -4,9 +4,6 @@
 
 <br>
 - Usage: 
-  - Get and analyze New York Times articles from a specific year and month using the API
-  - Filter articles by a date of birth (DOB) or search for specific keywords.
-  - Perform data analysis, visualize word count distribution, and generate a data analysis report.
 - External libraries: csv, matplotlib, nltk, pandas, requests, spacy
 - Contact Information: [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
 
