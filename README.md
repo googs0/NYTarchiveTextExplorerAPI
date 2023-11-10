@@ -3,7 +3,7 @@
 ### Retrieve and analyze articles from The New York Times API, including filtering by DOB, keyword search, data analysis, visualization, and report generation.
 
 - Usage:
-  - Get and analyze New York Times articles from a specific year and month using the API
+  - Get and analyze New York Times articles from a specific year and month using the NYT Archive API
   - Filter articles by a date of birth (DOB) or search for specific keywords
   - Perform data analysis, visualize word count distribution, and generate a data analysis report
 - External libraries: csv, matplotlib, nltk, pandas, requests, spacy
