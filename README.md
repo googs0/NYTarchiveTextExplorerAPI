@@ -3,11 +3,6 @@
 
 <br>
 
-**If you don't have a NYT API key, you can get one here**
-https://developer.nytimes.com/get-started
-
-<br>
-
 ### Usage
 **Clone the Repo**
 ```
@@ -18,6 +13,12 @@ git clone https://github.com/googs0/NYTarchiveTextExplorerAPI.git
 ```
 pip install -r requirements.txt
 ```
+
+<br>
+
+**If you don't have a NYT API key, you can get one here**
+<br>
+https://developer.nytimes.com/get-started
 
 <br>
 
