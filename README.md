@@ -1,13 +1,24 @@
-## NYT Article Analysis Toolkit
+## NYT Article Analysis with NLP: Sentiment Analysis, Named Entity Recognition, and Visualizations
+### Retrieve and analyze articles from The New York Times Archive API
 
-### Retrieve and analyze articles from The New York Times API, including filtering by DOB, keyword search, data analysis, visualization, and report generation.
+### Usage
+**Clone the Repo**
+```
+git clone https://github.com/googs0/NYTarchiveTextExplorerAPI.git
+```
 
-- Usage:
-  - Get and analyze New York Times articles from a specific year and month using the NYT Archive API
-  - Filter articles by a date of birth (DOB) or search for specific keywords
-  - Perform data analysis, visualize word count distribution, and generate a data analysis report
-- External libraries: csv, matplotlib, nltk, pandas, requests, spacy
-- Contact Information: [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
+**Install Dependencies**
+```
+pip install -r requirements.txt
+```
+
+### External Libraries
+- **Matplotlib**: Visualizations
+- **Pandas**: Data manipulation and dataframe processing 
+- **Requests**: HTTP requests
+- **Spacy**: Named entity recognition (NER)
+- **TextBlob**: NLP library for processing text data
+- **WordCloud**: Generate word clouds
 
 <br>
 <br>
