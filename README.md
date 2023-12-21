@@ -24,9 +24,11 @@ pip install -r requirements.txt
 - **TextBlob**: NLP library for processing text data
 - **WordCloud**: Generate word clouds
 
+<br>
+
 ### Files Included
-- _main.py
-- requirements.txt
+- **_main.py**
+- **requirements.txt**
 
 <br>
 
