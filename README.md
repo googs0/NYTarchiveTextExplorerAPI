@@ -12,6 +12,8 @@ git clone https://github.com/googs0/NYTarchiveTextExplorerAPI.git
 pip install -r requirements.txt
 ```
 
+<br>
+
 ### External Libraries
 - **Matplotlib**: Visualizations
 - **Pandas**: Data manipulation and dataframe processing 
