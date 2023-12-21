@@ -19,6 +19,8 @@ pip install -r requirements.txt
 **If you don't have a NYT API key, you can get one here**
 <br>
 https://developer.nytimes.com/get-started
+<br>
+Enter your custom key in main function of the program
 
 ### External Libraries
 - **Matplotlib**: Visualizations
