@@ -20,8 +20,6 @@ pip install -r requirements.txt
 <br>
 https://developer.nytimes.com/get-started
 
-<br>
-
 ### External Libraries
 - **Matplotlib**: Visualizations
 - **Pandas**: Data manipulation and dataframe processing 
