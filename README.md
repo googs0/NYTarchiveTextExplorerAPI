@@ -33,5 +33,9 @@ pip install -r requirements.txt
 <br>
 
 **Example images:**
-![NYT DOB API Screen 1](/assets/nyt_toolkit1.png)
-![NYT DOB API Screen 2](/assets/nyt_toolkit2.png)
+**_main.py**
+![NYT1](/assets/img/nyt1.png)
+![NYT2](/assets/img/nyt2.png)
+![NYT3](/assets/img/nyt3.png)
+![NYT4](/assets/img/nyt4.png)
+![NYT5](/assets/img/nyt5.png)
