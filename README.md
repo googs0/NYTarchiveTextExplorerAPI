@@ -15,6 +15,7 @@ pip install -r requirements.txt
 ```
 
 <br>
+<br>
 
 **If you don't have a NYT API key, you can get one here (enter key in main function of program)**
 <br>
