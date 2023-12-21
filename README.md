@@ -2,7 +2,7 @@
 ### Retrieve and analyze articles from The New York Times Archive API
 
 **If you don't have a NYT API key, you can get one here**
-[https://developer.nytimes.com/get-started]
+https://developer.nytimes.com/get-started
 
 <br>
 
