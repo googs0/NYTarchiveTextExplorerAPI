@@ -1,6 +1,8 @@
 ## NYT Article Analysis with NLP: Sentiment Analysis, Named Entity Recognition, and Visualizations
 ### Retrieve and analyze articles from The New York Times Archive API
 
+<br>
+
 ### Usage
 **Clone the Repo**
 ```
