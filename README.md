@@ -36,13 +36,3 @@ https://developer.nytimes.com/get-started
 ### Files Included
 - **_main.py**
 - **requirements.txt**
-
-<br>
-
-**Example images:**
-**_main.py**
-![NYT1](/assets/img/nyt1.png)
-![NYT2](/assets/img/nyt2.png)
-![NYT3](/assets/img/nyt3.png)
-![NYT4](/assets/img/nyt4.png)
-![NYT5](/assets/img/nyt5.png)
